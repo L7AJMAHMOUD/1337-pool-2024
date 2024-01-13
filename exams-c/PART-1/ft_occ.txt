@@ -1,0 +1,3 @@
+search the occurence of A .
+return 0 if the occurence false.
+return 1 if the occurence true.
