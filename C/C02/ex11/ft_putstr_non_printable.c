@@ -1,4 +1,5 @@
 #include <unistd.h>
+
 void    pchar(char x)
 {
     write(1,&x,1);
