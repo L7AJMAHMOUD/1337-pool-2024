@@ -90,15 +90,3 @@ char	**ft_split(char *str, char *charset)
 	strings[i] = 0;
 	return (strings);
 }
-int main()
-{
-	int i = 0;
-	char tab[] = "mahmoud hamza.IT/test!alpha-beta";
-	char sep[] = " ./-!";
-	char **bat = ft_split(tab,sep);
-	while(bat[i])
-	{
-		printf("%s",bat[i]);
-		i++;
-	}
-}
