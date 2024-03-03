@@ -1,0 +1,11 @@
+4 types :
+
+int ft_sub(int a,int b);
+
+-return a number.
+
+
+1- add.
+2- sub.
+3- prod.
+4- div.
