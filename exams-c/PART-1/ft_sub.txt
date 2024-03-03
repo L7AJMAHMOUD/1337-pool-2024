@@ -1,9 +1,0 @@
-4 types :
-
--return a number.
-
-
-1- add.
-2- sub.
-3- prod.
-4- div.
