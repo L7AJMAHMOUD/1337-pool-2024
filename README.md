@@ -14,8 +14,8 @@
 Skills developed at C Piscine
 =============================
   # C Language
-	The primary language learned at the 42's Piscine is C: dealing with variables,
-	pointers, memory allocation, macros, as well as creating functions and programs,
+	The first language learned at the 42 network Pool is "C": >> variables,
+	pointers, memory allocation (malloc ,free), macros, as well as creating functions and programs,
 	including the use and creation of libraries and Makefiles.
  
  # Shell
