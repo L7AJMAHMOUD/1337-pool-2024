@@ -66,3 +66,11 @@ Pool | Typical Weeks
 ==
 
 ![piscine_typical_week](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/1a23347d-7beb-44ed-a572-95d741d6baff)
+
+So Have a Good Trip With : " C Language / Bash / Git ".
+==
+
+![c-programming-logo-png-7](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/db8583c4-d86d-4bbc-94e3-bdef72b2292c)
+![executing-bash-script-on-multiple-remote-server](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/96a8be7f-1074-4925-9837-ebd1ffc7bc53)
+![7c3c338c21f7ab3868b02e8355e9789e](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/3d92b8de-e826-4eee-b230-d9b019b95c15)
+
