@@ -60,3 +60,9 @@ Education Program
 
 
 ![3y_edu_program](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/e00e290b-da08-4925-bf50-ce605beaba5b)
+
+
+Pool Weeks
+==
+
+![piscine_typical_week](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/1a23347d-7beb-44ed-a572-95d741d6baff)
