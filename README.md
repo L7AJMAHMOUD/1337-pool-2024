@@ -1,5 +1,7 @@
 ![42-network-logo-white](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/38b189c6-f733-4f84-9e24-e1fe5f419ede)
 ===
+
+
 << Developed By << L7AJ_MAHMOUD && HAMZA_EDDAHBI >>
 ============================================================
 
@@ -14,8 +16,13 @@
 	  /* Updated: 0000/00/00 by l7aj-mah         ####### ########   ########      ###.ma   */ 
 	  /*           	                                                                       */ 
 	  /* ********************************************************************************* */
+
+   
    
  ![1337-benny-hills](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/fbb2f39e-d79a-49b8-a58d-b163dbb73222)
+
+
+ 
 
 Skills developed at C Piscine
 =============================
@@ -48,3 +55,8 @@ Soft-skills
 	The school is open 24/7. Thus, the so-called "pisciners" are free to work whenever
 	they want, which demands excellent time management skills and resiliency for not
 	"drowning" amid the massive load of work demanded by the non-stop 26-day program.
+Education Program
+==
+
+
+![3y_edu_program](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/e00e290b-da08-4925-bf50-ce605beaba5b)
