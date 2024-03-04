@@ -1,4 +1,5 @@
-![42-network-logo-white](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/38b189c6-f733-4f84-9e24-e1fe5f419ede)<< Developed By << L7AJ_MAHMOUD && HAMZA_EDDAHBI >>
+![42-network-logo-white](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/38b189c6-f733-4f84-9e24-e1fe5f419ede)
+<< Developed By << L7AJ_MAHMOUD && HAMZA_EDDAHBI >>
 ============================================================
 
 	  /* ***************************************************+++++++++++******************* */
