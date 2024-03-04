@@ -13,7 +13,7 @@
 	  /*           	                                                                       */ 
 	  /* ********************************************************************************* */
    
-   ![aye-aye-capitain](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/89114dd8-b965-4c7f-9509-2fa35faa312a)
+ ![aye-aye-capitain](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/89114dd8-b965-4c7f-9509-2fa35faa312a)
 
 Skills developed at C Piscine
 =============================
