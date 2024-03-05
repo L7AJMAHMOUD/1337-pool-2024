@@ -67,7 +67,7 @@ Pool | Typical Weeks
 
 ![piscine_typical_week](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/1a23347d-7beb-44ed-a572-95d741d6baff)
 
-So...Have a Good Trip With : " C Language / Bash / Git ".
+So...Have a Good Trip With your three new friends :) : " C Language / Bash / Git ".
 ==
 
 ![c-programming-logo-png-7](https://github.com/L7AJMAHMOUD/1337-pool-2024/assets/130211556/db8583c4-d86d-4bbc-94e3-bdef72b2292c)
