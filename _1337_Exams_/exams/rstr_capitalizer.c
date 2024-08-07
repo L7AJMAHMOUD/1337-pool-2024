@@ -28,7 +28,7 @@ int		main(int ac, char **av)
 	i = 0;
 	if (ac > 1)
 	{
-		while (i < ac)
+		while (i < ac - 1)
 		{
 			i++;
 			i2 = 0;
