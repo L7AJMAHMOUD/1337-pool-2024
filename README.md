@@ -2,7 +2,7 @@
 ===
 
 
-<< Developed By << L7AJ_MAHMOUD && HAMZA_EDDAHBI >>
+<< Developed By << L7AJ_MAHMOUD >>
 ===========================================================
 
 
